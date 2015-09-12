@@ -4,7 +4,7 @@
 ##JMCircleView
 
 一个可以可旋转，区域点击的圆盘视图。
-![demo](https://github.com/jimmyleeking/JMFunnyView/raw/master/DemoShowRes/JMCircleView.gif)
+![demo](https://raw.githubusercontent.com/jimmyleeking/JMFunnyView/master/DemoShowRes/JMCircle.gif)
 
 ###How to use
 
