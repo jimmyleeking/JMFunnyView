@@ -24,7 +24,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-            NSArray *colorArray=[NSArray arrayWithObjects:
+    NSArray *colorArray=[NSArray arrayWithObjects:
                                    [UIColor colorWithRed:214.0/255.0 green:19.0/255.0 blue:33.0/255.0 alpha:1],//read
                                     [UIColor colorWithRed:63.0/255.0 green:183.0/255.0 blue:55.0/255.0 alpha:1],//green
                                  [UIColor colorWithRed:51.0/255.0 green:111.0/255.0 blue:183.0/255.0 alpha:1],
